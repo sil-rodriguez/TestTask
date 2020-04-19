@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.accounting.validation.TransactionValidationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-04-19T19:00:46" hostname="DESKTOP-GNCIOT1" time="0.004">
+  <properties/>
+  <testcase name="shouldFailWhenInvalidTransactionAmountIsZero()" classname="com.accounting.validation.TransactionValidationTest" time="0.001"/>
+  <testcase name="shouldReturnEmptyWhenValidTransaction()" classname="com.accounting.validation.TransactionValidationTest" time="0.0"/>
+  <testcase name="shouldFailWhenInvalidTransactionType()" classname="com.accounting.validation.TransactionValidationTest" time="0.0"/>
+  <testcase name="shouldFailWhenInvalidTransactionAmountIsNegative()" classname="com.accounting.validation.TransactionValidationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

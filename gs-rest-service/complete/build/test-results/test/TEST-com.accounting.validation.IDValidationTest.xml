@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.accounting.validation.IDValidationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-19T19:00:46" hostname="DESKTOP-GNCIOT1" time="0.004">
+  <properties/>
+  <testcase name="shouldReturnEmptyWhenValidID()" classname="com.accounting.validation.IDValidationTest" time="0.003"/>
+  <testcase name="shouldFailWhenInvalidID()" classname="com.accounting.validation.IDValidationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
